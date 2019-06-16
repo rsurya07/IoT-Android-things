@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ControlLED</string>
+    <string name="red_name">Red</string>
+    <string name="green_name">Green</string>
+    <string name="blue_name">Blue</string>
+    <string name="motor_speed">Speed</string>
+    <string name="adc">ADC</string>
+    <string name="dac">DAC</string>
+    <string name="action_settings">LED</string>
+
+</resources>

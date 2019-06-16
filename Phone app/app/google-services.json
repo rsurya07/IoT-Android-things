@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "799077767459",
+    "firebase_url": "https://led-test-21a43.firebaseio.com",
+    "project_id": "led-test-21a43",
+    "storage_bucket": "led-test-21a43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799077767459:android:beb2c20821a3eb4f",
+        "android_client_info": {
+          "package_name": "edu.pdx.rsurya07.thingsintro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799077767459-pk00o69q4s8dshb345r08lq46tauqs45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHG-SdzZYXKXBWX5JOQPB5WpUn7Eu6Y1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799077767459-pk00o69q4s8dshb345r08lq46tauqs45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
